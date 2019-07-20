@@ -24,5 +24,5 @@ Data was transformed using pandas, specifically:
 
 ## Load
 
--Final datasets were joined and loaded into Postgres, via primary key 'brand'.
-# Maybelline-Foundation
+-Final datasets loaded into Postgres.
+
